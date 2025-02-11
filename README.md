@@ -4,5 +4,5 @@
 pip install requirements.txt
 
 ## Run Agent
-streamlit run agent.py
+<code>streamlit run agent.py </code>
 upload documents on the server
