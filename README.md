@@ -12,4 +12,7 @@
 
 ## Run Agent
 <code>streamlit run agent.py </code> Run this command.
-upload documents on the server
+
+### upload documents like transcripts or any other pdf  on the server to test the agent.
+### Ask a about anything on the documents uploaded.
+
