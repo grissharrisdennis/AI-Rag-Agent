@@ -13,6 +13,22 @@
 ## Run Agent
 <code>streamlit run agent.py </code> Run this command.
 
+### Uses PERPLEXITY API
 ### upload documents like transcripts or any other pdf  on the server to test the agent.
 ### Ask a about anything on the documents uploaded.
+
+
+#  Summary Agent
+
+### Uses PERPLEXITY API
+
+## Run Agent
+<code>streamlit run summary_agent.py </code> Run this command.
+
+# API
+
+### Uses PERPLEXITY API 
+
+### API for video summmarisation.Uses youtbe video link to summarise the video.
+
 
