@@ -1,5 +1,5 @@
 # AI-Rag-Agent
-
+### Uses Langchain Framework for the agents and PERPLEXITY API for the LLM.
 
 ## create a env
 <code>python -m venv env </code>
@@ -27,7 +27,7 @@
 
 # API
 
-### Uses PERPLEXITY API 
+### Uses PERPLEXITY API and FastApi Framework.
 
 ### API for video summmarisation.Uses youtbe video link to summarise the video.
 
