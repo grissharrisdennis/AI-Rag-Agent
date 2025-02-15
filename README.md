@@ -1,4 +1,5 @@
-# AI-Rag-Agent
+# AI-Rag-Agent  -  Agent.py
+
 ### Uses Langchain Framework for the agents and PERPLEXITY API for the LLM.
 
 ## create a env
@@ -18,16 +19,18 @@
 ### Ask a about anything on the documents uploaded.
 
 
-#  Summary Agent
+#  Summary Agent  - summary-agent.py
 
 ### Uses PERPLEXITY API
 
 ## Run Agent
 <code>streamlit run summary_agent.py </code> Run this command.
 
-# API
+# API  - api.py
 
 ### Uses PERPLEXITY API and FastApi Framework.
+<code>fastapi dev api.py </code> Run this command.
+paste this to see the docuemntation <code> http://127.0.0.1:8000/docs </code>
 
 ### API for video summmarisation.Uses youtbe video link to summarise the video.
 
