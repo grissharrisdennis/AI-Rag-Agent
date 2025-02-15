@@ -25,9 +25,9 @@ Activate the environment:
   ```
 
 ### 2. Set Up API Keys
-Create a `.env` file in the root directory and add your **OpenAI API Key** to access the LLM.
+Create a `.env` file in the root directory and add your **PERPLEXITY API Key** to access the LLM.
 ```sh
-OPENAI_API_KEY=your_api_key_here
+PPLX_API_KEY=your_api_key_here
 ```
 
 ### 3. Install Dependencies
